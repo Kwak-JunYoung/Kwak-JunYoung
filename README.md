@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kwak Junyoung</h1>
-<h3 align="center">Developer with small, but constant growth</h3>
+<h1 align="center">Greetings!</h1>
 
-- 🔭 I’m currently working on **Fitness Helper**
+- 🔭 I’m currently working on **Fitness Helper - OSSP Team Project**
 
 - 🌱 I’m currently learning **Machine Learning, HTML, CSS, PS techniques**
 
-- 🤝 I’m looking for help with **Anything!**
-
 - 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/)
-
-- 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **klop9090@g.skku.edu**
 
