@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/)
 
-- 📫 How to reach me **klop9090@g.skku.edu**
+- 📫 Write me a mail to **klop9090@g.skku.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
