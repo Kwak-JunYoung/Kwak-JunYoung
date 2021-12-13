@@ -1,6 +1,6 @@
 <h1 align="center">Greetings!</h1>
 
-- 🔭 I’m currently working on **Fitness Helper - OSSP Team Project**
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **Machine Learning, HTML, CSS, PS techniques**
 
