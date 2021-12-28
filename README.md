@@ -1,6 +1,6 @@
 <h1 align="center">Greetings!</h1>
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on Naver Boostcamp Precourse
 
 - 🌱 I’m currently learning **Machine Learning, HTML, CSS, PS techniques**
 
