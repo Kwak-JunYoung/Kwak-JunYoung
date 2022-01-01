@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, HTML, CSS, PS techniques**
 
-- 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/)
+- 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/) [https://kwak-junyoung.github.io/](https://kwak-junyoung.github.io/)
 
 - 📫 Write me a mail to **klop9090@g.skku.edu**
 
