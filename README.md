@@ -35,4 +35,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwak-junyoung" alt="kwak-junyoung" /></a> </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=klop9090)]
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=klop9090)]
