@@ -33,6 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwak-junyoung&show_icons=true&locale=en" alt="kwak-junyoung" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwak-junyoung" alt="kwak-junyoung" /></a> </p>
-
-<p>[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=klop9090)](https://solved.ac/klop9090)</p>
