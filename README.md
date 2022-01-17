@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Improvement of Fitness_Helper
 
-- 🌱 I’m currently learning **Node.js, PS techniques**
+- 🌱 I’m currently learning **Node.js, PS techniques, Spring, Express**
 
 - 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/) and [https://kwak-junyoung.github.io/](https://kwak-junyoung.github.io/)
 
