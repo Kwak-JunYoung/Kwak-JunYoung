@@ -1,8 +1,8 @@
 <h1 align="center">Greetings!</h1>
 
-- 🔭 I’m currently working on Improvement of Fitness_Helper
+- 🔭 I’m currently working on the thesis that compares sakt, dkt, saint
 
-- 🌱 I’m currently learning **Node.js, PS techniques, Spring, Express, MongoDB, flask**
+- 🌱 I’m currently learning **Recsys, Knowledge Tracing**
 
 - 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/) and [https://kwak-junyoung.github.io/](https://kwak-junyoung.github.io/)
 
