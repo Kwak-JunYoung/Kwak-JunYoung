@@ -1,12 +1,12 @@
 <h1 align="center">Greetings!</h1>
 
-- 🔭 I’m currently working on the thesis that compares sakt, dkt, saint
+- 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **Recsys, Knowledge Tracing**
+- 🌱 I’m currently learning ****
 
-- 📝 I regularly write articles on [https://gopseul.tistory.com/](https://gopseul.tistory.com/) and [https://kwak-junyoung.github.io/](https://kwak-junyoung.github.io/)
+- 📝 I regularly write articles on 
 
-- 📫 Write me a mail to **klop9090@g.skku.edu**
+- 📫 Write me a mail to ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
